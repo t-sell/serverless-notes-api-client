@@ -1,5 +1,6 @@
 export default {
   MAX_ATTACHMENT_SIZE: 5000000,
+  STRIPE_KEY: "pk_test_rARZ4rQnhEY9AEBv05OC4sPY00zKGfLPaJ",
   s3: {
     REGION: "us-west-2",
     BUCKET: "my-notes-app-ex"
